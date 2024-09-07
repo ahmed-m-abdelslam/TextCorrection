@@ -17,9 +17,3 @@ This project demonstrates how to use the **Groq language model** (via the `langc
   - `langchain_core`
   - `python-dotenv`
 
-## Setup
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/groq-grammar-correction.git
-   cd groq-grammar-correction
